@@ -13,10 +13,8 @@ It's based on the [default Grafana container image](https://github.com/grafana/g
 You can use this container as described in the [official Grafana docker documentation](https://hub.docker.com/r/grafana/grafana) like
 
 ```sh
-docker run --name balluff_grafana -d -p 3000:3000 balluff/grafana:v1.0
+docker run --name balluff_grafana -d -p 3000:3000 balluff/grafana
 ```
-
-If you don't enter an tag `latest` is used. But we recommend to set a tag and pull the specific version you want.
 
 ## Work with Grafana
 
@@ -27,7 +25,7 @@ You can login with
 Username: `balluff`
 Password: `MlHae9NM`
 
-![Grafana login]()(https://raw.githubusercontent.com/Balluff/docker-grafana/master/screens/grafana_login.png)
+![Grafana login](https://raw.githubusercontent.com/Balluff/docker-grafana/master/screens/grafana_login.png)
 
 After the succesful login you can add data sources and additional content to the Grafana container.
 

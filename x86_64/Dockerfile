@@ -8,8 +8,8 @@ LABEL Name "Grafana container"
 LABEL Architecture "x86_64"
 
 # Adding the Balluff defaults to the image
-ADD public /usr/share/grafana/public
-ADD conf/defaults.ini /usr/share/grafana/conf/defaults.ini
+ADD usr/share/grafana/public /usr/share/grafana/public
+ADD usr/share/grafana/conf/defaults.ini /usr/share/grafana/conf/defaults.ini
 
 # Using the ENTRYPOINT of the base image so no
 # extra ENTRYPOINT or CMD is set

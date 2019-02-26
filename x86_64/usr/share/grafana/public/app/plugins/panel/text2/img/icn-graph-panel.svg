@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#898989;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#898989;}
+	.st2{fill:#AC677E;}
+	.st3{fill:#70BED6;}
+	.st4{fill:#005D76;}
+</style>
+<polyline class="st0" points="4.7,34.3 36,19.3 64.9,36.8 96.3,6.9 "/>
+<circle class="st1" cx="4.9" cy="33.9" r="4.9"/>
+<circle class="st1" cx="36" cy="19.5" r="4.9"/>
+<circle class="st1" cx="65" cy="36" r="4.9"/>
+<circle class="st1" cx="95" cy="7.1" r="4.9"/>
+<g>
+	<path class="st2" d="M9,48.2H1c-0.6,0-1,0.4-1,1V100h10V49.2C10,48.6,9.6,48.2,9,48.2z"/>
+	<path class="st3" d="M0,69.2v30.6h10V69.2"/>
+	<path class="st4" d="M0,83.2v16.7h10V83.2"/>
+</g>
+<g>
+	<path class="st2" d="M24,40.8h-8c-0.6,0-1,0.4-1,1V100h10V41.8C25,41.2,24.6,40.8,24,40.8z"/>
+	<path class="st3" d="M15,64.7v35h10v-35"/>
+	<path class="st4" d="M15,80.7v19.1h10V80.7"/>
+</g>
+<g>
+	<path class="st2" d="M39,34.4h-8c-0.6,0-1,0.4-1,1V100h10V35.4C40,34.9,39.6,34.4,39,34.4z"/>
+	<path class="st3" d="M30,60.9v38.8h10V60.9"/>
+	<path class="st4" d="M30,78.6v21.2h10V78.6"/>
+</g>
+<g>
+	<path class="st2" d="M54,41.8h-8c-0.6,0-1,0.4-1,1V100h10V42.8C55,42.3,54.6,41.8,54,41.8z"/>
+	<path class="st3" d="M45,65.4v34.4h10V65.4"/>
+	<path class="st4" d="M45,81.1v18.8h10V81.1"/>
+</g>
+<g>
+	<path class="st2" d="M69,50.4h-8c-0.6,0-1,0.4-1,1V100h10V51.4C70,50.9,69.6,50.4,69,50.4z"/>
+	<path class="st3" d="M60,70.5v29.2h10V70.5"/>
+	<path class="st4" d="M60,83.9v16h10v-16"/>
+</g>
+<g>
+	<path class="st2" d="M84,40.8h-8c-0.6,0-1,0.4-1,1V100h10V41.8C85,41.2,84.6,40.8,84,40.8z"/>
+	<path class="st3" d="M75,64.7v35h10v-35"/>
+	<path class="st4" d="M75,80.7v19.1h10V80.7"/>
+</g>
+<g>
+	<path class="st2" d="M99,21.2h-8c-0.6,0-1,0.4-1,1V100h10V22.2C100,21.6,99.6,21.2,99,21.2z"/>
+	<path class="st3" d="M90,52.9v46.8h10V52.9"/>
+	<path class="st4" d="M90,74.3v25.6h10V74.3"/>
+</g>
+</svg>
