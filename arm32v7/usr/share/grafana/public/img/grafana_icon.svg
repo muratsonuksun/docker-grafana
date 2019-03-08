@@ -1,0 +1,20 @@
+<svg id="Logo_Balluff" data-name="Logo Balluff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156.444 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #074763;
+      }
+    </style>
+  </defs>
+  <path id="Pfad_1" data-name="Pfad 1" class="cls-1" d="M19.739,9.625a4.991,4.991,0,0,0,2.61-4.5A5.143,5.143,0,0,0,16.933,0H0V4.372H14.388a1.729,1.729,0,0,1-.033,3.458H0V19.967H17.651A5.382,5.382,0,0,0,19.739,9.625Zm-4.8,6.2H5.873V12.1h8.842a1.116,1.116,0,0,1,.359.033,1.854,1.854,0,0,1-.131,3.687Z"/>
+  <path id="Pfad_2" data-name="Pfad 2" class="cls-1" d="M87,0,77.8,20h6.232L90.524,4.829l4.568,10.734H90.524V20h12.724l-9.2-20Z" transform="translate(-52.417)"/>
+  <path id="Pfad_3" data-name="Pfad 3" class="cls-1" d="M168.4,0V20h14.78V15.53h-8.907V0Z" transform="translate(-113.457)"/>
+  <path id="Pfad_4" data-name="Pfad 4" class="cls-1" d="M229.2,0V20h14.812V15.53h-8.94V0Z" transform="translate(-154.42)"/>
+  <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(93.736)">
+    <path id="Pfad_5" data-name="Pfad 5" class="cls-1" d="M287.3,0V15.432a4.637,4.637,0,0,0,4.829,4.535h10.506a4.638,4.638,0,0,0,4.829-4.535V0H301.59V14.78a.738.738,0,0,1-.75.75h-6.917a.738.738,0,0,1-.75-.75V0Z" transform="translate(-287.3)"/>
+  </g>
+  <path id="Pfad_6" data-name="Pfad 6" class="cls-1" d="M366.6,26.7V37.989h5.873v-7.08h8.94V26.7Z" transform="translate(-246.992 -17.989)"/>
+  <rect id="Rechteck_1" data-name="Rechteck 1" class="cls-1" width="16.052" height="4.535" transform="translate(119.608)"/>
+  <path id="Pfad_7" data-name="Pfad 7" class="cls-1" d="M430.3,26.7V37.989h5.873v-7.08h9.233V26.7Z" transform="translate(-289.908 -17.989)"/>
+  <rect id="Rechteck_2" data-name="Rechteck 2" class="cls-1" width="16.052" height="4.535" transform="translate(140.392)"/>
+</svg>
